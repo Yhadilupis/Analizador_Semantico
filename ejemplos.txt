@@ -1,0 +1,21 @@
+Validaciones
+i=2
+a=true
+i=false
+i=*z*
+
+¡si{10>=5}![
+Print(10)
+]
+
+data = *cadena*
+F(i=0,i<10,i++)[
+Print(data)
+]
+
+a = 5
+b = *hola*
+fun y()[ 
+a=b
+return a
+]
